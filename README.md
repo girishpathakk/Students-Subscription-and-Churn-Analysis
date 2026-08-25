@@ -247,7 +247,7 @@ ORDER BY Sub_Start_Month;
 ### Step 3: Python Visualization
 ```bash
 # Open notebooks/Chegg_Subscription_Analysis.ipynb
-# Run all cells → 8 dashboard charts generated
+# Run all cells
 ```
 
 ### Step 4: Power BI Dashboard
